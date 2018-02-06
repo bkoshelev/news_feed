@@ -1,0 +1,20 @@
+button {
+  background: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news {
+  min-height: 50px;
+  height: 100%;
+  margin-bottom: 10px;
+}
+
+#open_text {
+  margin-right: 10px;
+}
+
+.text {
+  font-family: arial;
+}
